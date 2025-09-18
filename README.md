@@ -31,20 +31,20 @@ La API usa `appsettings.json` o variables de entorno para configurar el endpoint
   "AllowedHosts": "*"
 }
 
-# Restaurar dependencias
+## Restaurar dependencias
 dotnet restore EnvioPedidosAcme.sln
 
-# Compilar solución
+## Compilar solución
 dotnet build EnvioPedidosAcme.sln -c Release
 
-# Ejecutar la API
+## Ejecutar la API
 dotnet run --project src/EnvioPedidosAcme.Api
 
 Una vez levantada, abre Swagger en:
 👉 http://localhost:5080/swagger
  (o el puerto que indique tu consola).
 
-🐳 Ejecutar con Docker
+##🐳 Ejecutar con Docker
 1. Construir la imagen
 
 En la raíz del proyecto (donde está EnvioPedidosAcme.sln y Dockerfile):
