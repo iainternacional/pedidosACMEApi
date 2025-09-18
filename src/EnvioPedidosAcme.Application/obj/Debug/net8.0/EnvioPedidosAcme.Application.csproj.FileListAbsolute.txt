@@ -1,0 +1,22 @@
+C:\Users\andre\Downloads\EnvioPedidosAcme_Solution (1)\src\EnvioPedidosAcme.Application\bin\Debug\net8.0\EnvioPedidosAcme.Application.deps.json
+C:\Users\andre\Downloads\EnvioPedidosAcme_Solution (1)\src\EnvioPedidosAcme.Application\bin\Debug\net8.0\EnvioPedidosAcme.Application.dll
+C:\Users\andre\Downloads\EnvioPedidosAcme_Solution (1)\src\EnvioPedidosAcme.Application\bin\Debug\net8.0\EnvioPedidosAcme.Application.pdb
+C:\Users\andre\Downloads\EnvioPedidosAcme_Solution (1)\src\EnvioPedidosAcme.Application\obj\Debug\net8.0\EnvioPedidosAcme.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Downloads\EnvioPedidosAcme_Solution (1)\src\EnvioPedidosAcme.Application\obj\Debug\net8.0\EnvioPedidosAcme.Application.AssemblyInfoInputs.cache
+C:\Users\andre\Downloads\EnvioPedidosAcme_Solution (1)\src\EnvioPedidosAcme.Application\obj\Debug\net8.0\EnvioPedidosAcme.Application.AssemblyInfo.cs
+C:\Users\andre\Downloads\EnvioPedidosAcme_Solution (1)\src\EnvioPedidosAcme.Application\obj\Debug\net8.0\EnvioPedidosAcme.Application.csproj.CoreCompileInputs.cache
+C:\Users\andre\Downloads\EnvioPedidosAcme_Solution (1)\src\EnvioPedidosAcme.Application\obj\Debug\net8.0\EnvioPedidosAcme.Application.dll
+C:\Users\andre\Downloads\EnvioPedidosAcme_Solution (1)\src\EnvioPedidosAcme.Application\obj\Debug\net8.0\refint\EnvioPedidosAcme.Application.dll
+C:\Users\andre\Downloads\EnvioPedidosAcme_Solution (1)\src\EnvioPedidosAcme.Application\obj\Debug\net8.0\EnvioPedidosAcme.Application.pdb
+C:\Users\andre\Downloads\EnvioPedidosAcme_Solution (1)\src\EnvioPedidosAcme.Application\obj\Debug\net8.0\ref\EnvioPedidosAcme.Application.dll
+C:\Users\andre\Downloads\EnvioPedidosAcme\src\EnvioPedidosAcme.Application\bin\Debug\net8.0\EnvioPedidosAcme.Application.deps.json
+C:\Users\andre\Downloads\EnvioPedidosAcme\src\EnvioPedidosAcme.Application\bin\Debug\net8.0\EnvioPedidosAcme.Application.dll
+C:\Users\andre\Downloads\EnvioPedidosAcme\src\EnvioPedidosAcme.Application\bin\Debug\net8.0\EnvioPedidosAcme.Application.pdb
+C:\Users\andre\Downloads\EnvioPedidosAcme\src\EnvioPedidosAcme.Application\obj\Debug\net8.0\EnvioPedidosAcme.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Downloads\EnvioPedidosAcme\src\EnvioPedidosAcme.Application\obj\Debug\net8.0\EnvioPedidosAcme.Application.AssemblyInfoInputs.cache
+C:\Users\andre\Downloads\EnvioPedidosAcme\src\EnvioPedidosAcme.Application\obj\Debug\net8.0\EnvioPedidosAcme.Application.AssemblyInfo.cs
+C:\Users\andre\Downloads\EnvioPedidosAcme\src\EnvioPedidosAcme.Application\obj\Debug\net8.0\EnvioPedidosAcme.Application.csproj.CoreCompileInputs.cache
+C:\Users\andre\Downloads\EnvioPedidosAcme\src\EnvioPedidosAcme.Application\obj\Debug\net8.0\EnvioPedidosAcme.Application.dll
+C:\Users\andre\Downloads\EnvioPedidosAcme\src\EnvioPedidosAcme.Application\obj\Debug\net8.0\refint\EnvioPedidosAcme.Application.dll
+C:\Users\andre\Downloads\EnvioPedidosAcme\src\EnvioPedidosAcme.Application\obj\Debug\net8.0\EnvioPedidosAcme.Application.pdb
+C:\Users\andre\Downloads\EnvioPedidosAcme\src\EnvioPedidosAcme.Application\obj\Debug\net8.0\ref\EnvioPedidosAcme.Application.dll

@@ -1,0 +1,123 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "EnvioPedidosAcme.Api",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/EnvioPedidos": {
+      "post": {
+        "tags": [
+          "EnvioPedidos"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/EnviarPedidoJsonRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/EnviarPedidoJsonRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/EnviarPedidoJsonRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/EnviarPedidoJsonResponse"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/EnviarPedidoJsonResponse"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/EnviarPedidoJsonResponse"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "EnviarPedidoJsonRequest": {
+        "type": "object",
+        "properties": {
+          "enviarPedido": {
+            "$ref": "#/components/schemas/EnviarPedidoPayload"
+          }
+        },
+        "additionalProperties": false
+      },
+      "EnviarPedidoJsonResponse": {
+        "type": "object",
+        "properties": {
+          "enviarPedidoRespuesta": {
+            "$ref": "#/components/schemas/EnviarPedidoRespuesta"
+          }
+        },
+        "additionalProperties": false
+      },
+      "EnviarPedidoPayload": {
+        "type": "object",
+        "properties": {
+          "numPedido": {
+            "type": "string",
+            "nullable": true
+          },
+          "cantidadPedido": {
+            "type": "string",
+            "nullable": true
+          },
+          "codigoEAN": {
+            "type": "string",
+            "nullable": true
+          },
+          "nombreProducto": {
+            "type": "string",
+            "nullable": true
+          },
+          "numDocumento": {
+            "type": "string",
+            "nullable": true
+          },
+          "direccion": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "EnviarPedidoRespuesta": {
+        "type": "object",
+        "properties": {
+          "codigoEnvio": {
+            "type": "string",
+            "nullable": true
+          },
+          "estado": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

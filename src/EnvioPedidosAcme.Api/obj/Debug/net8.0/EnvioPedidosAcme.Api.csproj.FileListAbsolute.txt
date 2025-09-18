@@ -1,0 +1,96 @@
+C:\Users\andre\Downloads\EnvioPedidosAcme_Solution (1)\src\EnvioPedidosAcme.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\andre\Downloads\EnvioPedidosAcme_Solution (1)\src\EnvioPedidosAcme.Api\bin\Debug\net8.0\EnvioPedidosAcme.Api.staticwebassets.endpoints.json
+C:\Users\andre\Downloads\EnvioPedidosAcme_Solution (1)\src\EnvioPedidosAcme.Api\bin\Debug\net8.0\EnvioPedidosAcme.Api.exe
+C:\Users\andre\Downloads\EnvioPedidosAcme_Solution (1)\src\EnvioPedidosAcme.Api\bin\Debug\net8.0\EnvioPedidosAcme.Api.deps.json
+C:\Users\andre\Downloads\EnvioPedidosAcme_Solution (1)\src\EnvioPedidosAcme.Api\bin\Debug\net8.0\EnvioPedidosAcme.Api.runtimeconfig.json
+C:\Users\andre\Downloads\EnvioPedidosAcme_Solution (1)\src\EnvioPedidosAcme.Api\bin\Debug\net8.0\EnvioPedidosAcme.Api.dll
+C:\Users\andre\Downloads\EnvioPedidosAcme_Solution (1)\src\EnvioPedidosAcme.Api\bin\Debug\net8.0\EnvioPedidosAcme.Api.pdb
+C:\Users\andre\Downloads\EnvioPedidosAcme_Solution (1)\src\EnvioPedidosAcme.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\andre\Downloads\EnvioPedidosAcme_Solution (1)\src\EnvioPedidosAcme.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\andre\Downloads\EnvioPedidosAcme_Solution (1)\src\EnvioPedidosAcme.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\andre\Downloads\EnvioPedidosAcme_Solution (1)\src\EnvioPedidosAcme.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\andre\Downloads\EnvioPedidosAcme_Solution (1)\src\EnvioPedidosAcme.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\andre\Downloads\EnvioPedidosAcme_Solution (1)\src\EnvioPedidosAcme.Api\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+C:\Users\andre\Downloads\EnvioPedidosAcme_Solution (1)\src\EnvioPedidosAcme.Api\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\andre\Downloads\EnvioPedidosAcme_Solution (1)\src\EnvioPedidosAcme.Api\bin\Debug\net8.0\Microsoft.Extensions.Http.dll
+C:\Users\andre\Downloads\EnvioPedidosAcme_Solution (1)\src\EnvioPedidosAcme.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\andre\Downloads\EnvioPedidosAcme_Solution (1)\src\EnvioPedidosAcme.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\andre\Downloads\EnvioPedidosAcme_Solution (1)\src\EnvioPedidosAcme.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\andre\Downloads\EnvioPedidosAcme_Solution (1)\src\EnvioPedidosAcme.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\andre\Downloads\EnvioPedidosAcme_Solution (1)\src\EnvioPedidosAcme.Api\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\andre\Downloads\EnvioPedidosAcme_Solution (1)\src\EnvioPedidosAcme.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\andre\Downloads\EnvioPedidosAcme_Solution (1)\src\EnvioPedidosAcme.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\andre\Downloads\EnvioPedidosAcme_Solution (1)\src\EnvioPedidosAcme.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\andre\Downloads\EnvioPedidosAcme_Solution (1)\src\EnvioPedidosAcme.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\andre\Downloads\EnvioPedidosAcme_Solution (1)\src\EnvioPedidosAcme.Api\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\andre\Downloads\EnvioPedidosAcme_Solution (1)\src\EnvioPedidosAcme.Api\bin\Debug\net8.0\EnvioPedidosAcme.Application.dll
+C:\Users\andre\Downloads\EnvioPedidosAcme_Solution (1)\src\EnvioPedidosAcme.Api\bin\Debug\net8.0\EnvioPedidosAcme.Infrastructure.dll
+C:\Users\andre\Downloads\EnvioPedidosAcme_Solution (1)\src\EnvioPedidosAcme.Api\bin\Debug\net8.0\EnvioPedidosAcme.Application.pdb
+C:\Users\andre\Downloads\EnvioPedidosAcme_Solution (1)\src\EnvioPedidosAcme.Api\bin\Debug\net8.0\EnvioPedidosAcme.Infrastructure.pdb
+C:\Users\andre\Downloads\EnvioPedidosAcme_Solution (1)\src\EnvioPedidosAcme.Api\obj\Debug\net8.0\EnvioPedidosAcme.Api.csproj.AssemblyReference.cache
+C:\Users\andre\Downloads\EnvioPedidosAcme_Solution (1)\src\EnvioPedidosAcme.Api\obj\Debug\net8.0\EnvioPedidosAcme.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Downloads\EnvioPedidosAcme_Solution (1)\src\EnvioPedidosAcme.Api\obj\Debug\net8.0\EnvioPedidosAcme.Api.AssemblyInfoInputs.cache
+C:\Users\andre\Downloads\EnvioPedidosAcme_Solution (1)\src\EnvioPedidosAcme.Api\obj\Debug\net8.0\EnvioPedidosAcme.Api.AssemblyInfo.cs
+C:\Users\andre\Downloads\EnvioPedidosAcme_Solution (1)\src\EnvioPedidosAcme.Api\obj\Debug\net8.0\EnvioPedidosAcme.Api.csproj.CoreCompileInputs.cache
+C:\Users\andre\Downloads\EnvioPedidosAcme_Solution (1)\src\EnvioPedidosAcme.Api\obj\Debug\net8.0\EnvioPedidosAcme.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\andre\Downloads\EnvioPedidosAcme_Solution (1)\src\EnvioPedidosAcme.Api\obj\Debug\net8.0\EnvioPedidosAcme.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\andre\Downloads\EnvioPedidosAcme_Solution (1)\src\EnvioPedidosAcme.Api\obj\Debug\net8.0\scopedcss\bundle\EnvioPedidosAcme.Api.styles.css
+C:\Users\andre\Downloads\EnvioPedidosAcme_Solution (1)\src\EnvioPedidosAcme.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\andre\Downloads\EnvioPedidosAcme_Solution (1)\src\EnvioPedidosAcme.Api\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\andre\Downloads\EnvioPedidosAcme_Solution (1)\src\EnvioPedidosAcme.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\andre\Downloads\EnvioPedidosAcme_Solution (1)\src\EnvioPedidosAcme.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\andre\Downloads\EnvioPedidosAcme_Solution (1)\src\EnvioPedidosAcme.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\andre\Downloads\EnvioPedidosAcme_Solution (1)\src\EnvioPedidosAcme.Api\obj\Debug\net8.0\EnvioPed.AA4E3B4F.Up2Date
+C:\Users\andre\Downloads\EnvioPedidosAcme_Solution (1)\src\EnvioPedidosAcme.Api\obj\Debug\net8.0\EnvioPedidosAcme.Api.dll
+C:\Users\andre\Downloads\EnvioPedidosAcme_Solution (1)\src\EnvioPedidosAcme.Api\obj\Debug\net8.0\refint\EnvioPedidosAcme.Api.dll
+C:\Users\andre\Downloads\EnvioPedidosAcme_Solution (1)\src\EnvioPedidosAcme.Api\obj\Debug\net8.0\EnvioPedidosAcme.Api.pdb
+C:\Users\andre\Downloads\EnvioPedidosAcme_Solution (1)\src\EnvioPedidosAcme.Api\obj\Debug\net8.0\EnvioPedidosAcme.Api.genruntimeconfig.cache
+C:\Users\andre\Downloads\EnvioPedidosAcme_Solution (1)\src\EnvioPedidosAcme.Api\obj\Debug\net8.0\ref\EnvioPedidosAcme.Api.dll
+C:\Users\andre\Downloads\EnvioPedidosAcme\src\EnvioPedidosAcme.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\andre\Downloads\EnvioPedidosAcme\src\EnvioPedidosAcme.Api\bin\Debug\net8.0\EnvioPedidosAcme.Api.staticwebassets.endpoints.json
+C:\Users\andre\Downloads\EnvioPedidosAcme\src\EnvioPedidosAcme.Api\bin\Debug\net8.0\EnvioPedidosAcme.Api.exe
+C:\Users\andre\Downloads\EnvioPedidosAcme\src\EnvioPedidosAcme.Api\bin\Debug\net8.0\EnvioPedidosAcme.Api.deps.json
+C:\Users\andre\Downloads\EnvioPedidosAcme\src\EnvioPedidosAcme.Api\bin\Debug\net8.0\EnvioPedidosAcme.Api.runtimeconfig.json
+C:\Users\andre\Downloads\EnvioPedidosAcme\src\EnvioPedidosAcme.Api\bin\Debug\net8.0\EnvioPedidosAcme.Api.dll
+C:\Users\andre\Downloads\EnvioPedidosAcme\src\EnvioPedidosAcme.Api\bin\Debug\net8.0\EnvioPedidosAcme.Api.pdb
+C:\Users\andre\Downloads\EnvioPedidosAcme\src\EnvioPedidosAcme.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\andre\Downloads\EnvioPedidosAcme\src\EnvioPedidosAcme.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\andre\Downloads\EnvioPedidosAcme\src\EnvioPedidosAcme.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\andre\Downloads\EnvioPedidosAcme\src\EnvioPedidosAcme.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\andre\Downloads\EnvioPedidosAcme\src\EnvioPedidosAcme.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\andre\Downloads\EnvioPedidosAcme\src\EnvioPedidosAcme.Api\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+C:\Users\andre\Downloads\EnvioPedidosAcme\src\EnvioPedidosAcme.Api\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\andre\Downloads\EnvioPedidosAcme\src\EnvioPedidosAcme.Api\bin\Debug\net8.0\Microsoft.Extensions.Http.dll
+C:\Users\andre\Downloads\EnvioPedidosAcme\src\EnvioPedidosAcme.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\andre\Downloads\EnvioPedidosAcme\src\EnvioPedidosAcme.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\andre\Downloads\EnvioPedidosAcme\src\EnvioPedidosAcme.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\andre\Downloads\EnvioPedidosAcme\src\EnvioPedidosAcme.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\andre\Downloads\EnvioPedidosAcme\src\EnvioPedidosAcme.Api\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\andre\Downloads\EnvioPedidosAcme\src\EnvioPedidosAcme.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\andre\Downloads\EnvioPedidosAcme\src\EnvioPedidosAcme.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\andre\Downloads\EnvioPedidosAcme\src\EnvioPedidosAcme.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\andre\Downloads\EnvioPedidosAcme\src\EnvioPedidosAcme.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\andre\Downloads\EnvioPedidosAcme\src\EnvioPedidosAcme.Api\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\andre\Downloads\EnvioPedidosAcme\src\EnvioPedidosAcme.Api\bin\Debug\net8.0\EnvioPedidosAcme.Application.dll
+C:\Users\andre\Downloads\EnvioPedidosAcme\src\EnvioPedidosAcme.Api\bin\Debug\net8.0\EnvioPedidosAcme.Infrastructure.dll
+C:\Users\andre\Downloads\EnvioPedidosAcme\src\EnvioPedidosAcme.Api\bin\Debug\net8.0\EnvioPedidosAcme.Application.pdb
+C:\Users\andre\Downloads\EnvioPedidosAcme\src\EnvioPedidosAcme.Api\bin\Debug\net8.0\EnvioPedidosAcme.Infrastructure.pdb
+C:\Users\andre\Downloads\EnvioPedidosAcme\src\EnvioPedidosAcme.Api\obj\Debug\net8.0\EnvioPedidosAcme.Api.csproj.AssemblyReference.cache
+C:\Users\andre\Downloads\EnvioPedidosAcme\src\EnvioPedidosAcme.Api\obj\Debug\net8.0\EnvioPedidosAcme.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Downloads\EnvioPedidosAcme\src\EnvioPedidosAcme.Api\obj\Debug\net8.0\EnvioPedidosAcme.Api.AssemblyInfoInputs.cache
+C:\Users\andre\Downloads\EnvioPedidosAcme\src\EnvioPedidosAcme.Api\obj\Debug\net8.0\EnvioPedidosAcme.Api.AssemblyInfo.cs
+C:\Users\andre\Downloads\EnvioPedidosAcme\src\EnvioPedidosAcme.Api\obj\Debug\net8.0\EnvioPedidosAcme.Api.csproj.CoreCompileInputs.cache
+C:\Users\andre\Downloads\EnvioPedidosAcme\src\EnvioPedidosAcme.Api\obj\Debug\net8.0\EnvioPedidosAcme.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\andre\Downloads\EnvioPedidosAcme\src\EnvioPedidosAcme.Api\obj\Debug\net8.0\EnvioPedidosAcme.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\andre\Downloads\EnvioPedidosAcme\src\EnvioPedidosAcme.Api\obj\Debug\net8.0\scopedcss\bundle\EnvioPedidosAcme.Api.styles.css
+C:\Users\andre\Downloads\EnvioPedidosAcme\src\EnvioPedidosAcme.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\andre\Downloads\EnvioPedidosAcme\src\EnvioPedidosAcme.Api\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\andre\Downloads\EnvioPedidosAcme\src\EnvioPedidosAcme.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\andre\Downloads\EnvioPedidosAcme\src\EnvioPedidosAcme.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\andre\Downloads\EnvioPedidosAcme\src\EnvioPedidosAcme.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\andre\Downloads\EnvioPedidosAcme\src\EnvioPedidosAcme.Api\obj\Debug\net8.0\EnvioPed.AA4E3B4F.Up2Date
+C:\Users\andre\Downloads\EnvioPedidosAcme\src\EnvioPedidosAcme.Api\obj\Debug\net8.0\EnvioPedidosAcme.Api.dll
+C:\Users\andre\Downloads\EnvioPedidosAcme\src\EnvioPedidosAcme.Api\obj\Debug\net8.0\refint\EnvioPedidosAcme.Api.dll
+C:\Users\andre\Downloads\EnvioPedidosAcme\src\EnvioPedidosAcme.Api\obj\Debug\net8.0\EnvioPedidosAcme.Api.pdb
+C:\Users\andre\Downloads\EnvioPedidosAcme\src\EnvioPedidosAcme.Api\obj\Debug\net8.0\EnvioPedidosAcme.Api.genruntimeconfig.cache
+C:\Users\andre\Downloads\EnvioPedidosAcme\src\EnvioPedidosAcme.Api\obj\Debug\net8.0\ref\EnvioPedidosAcme.Api.dll

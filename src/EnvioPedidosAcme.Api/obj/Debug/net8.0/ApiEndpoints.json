@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "EnvioPedidosAcme.Api.Controllers.EnvioPedidosController",
+    "Method": "Post",
+    "RelativePath": "api/EnvioPedidos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "EnvioPedidosAcme.Application.Contracts.EnviarPedidoJsonRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "EnvioPedidosAcme.Application.Contracts.EnviarPedidoJsonResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

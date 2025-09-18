@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>a12a5fb7-e090-4ae1-97ae-b2b1dcf1022d</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <DockerfileContext>..\..</DockerfileContext>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EnvioPedidosAcme.Application\EnvioPedidosAcme.Application.csproj" />
+    <ProjectReference Include="..\EnvioPedidosAcme.Infrastructure\EnvioPedidosAcme.Infrastructure.csproj" />
+  </ItemGroup>
+  <ItemGroup><PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.22.1" /><PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" /></ItemGroup>
+</Project>
