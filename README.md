@@ -43,7 +43,7 @@ La API usa `appsettings.json` o variables de entorno para configurar el endpoint
 
 ### 1. Construir la imagen
 
-En la raíz del proyecto (donde está `EnvioPedidosAcme.sln` y el `Dockerfile`):
+En la raíz del proyecto (donde está el `Dockerfile`):
 
 ```bash
 docker build -t enviopedidosacme:latest .
